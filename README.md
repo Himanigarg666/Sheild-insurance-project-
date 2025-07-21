@@ -36,3 +36,6 @@ Based on the dashboard analysis, several key insights were discovered:
 * Policies like **POL2005HEL** and **POL9221HEL** are popular across multiple age groups and should be prioritized in promotions.
 
 These findings helped shape practical business recommendations to support Shield Insurance in optimizing sales strategy, improving digital adoption, and expanding market reach.
+
+## Live Dashboard link :- 
+https://app.powerbi.com/view?r=eyJrIjoiYzVjZWQ1YjAtYTU1OS00ZjAyLTk2N2ItZDhkM2RjMDU1MTVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3ff4c82c16d51fe9e0ef
